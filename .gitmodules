@@ -1,0 +1,9 @@
+[submodule "Heart-Disease-Indicator-Logistic-Regression-"]
+	path = Heart-Disease-Indicator-Logistic-Regression-
+	url = https://github.com/BlazeWild/Heart-Disease-Indicator-Logistic-Regression-
+[submodule "HousePricePrediction"]
+	path = HousePricePrediction
+	url = https://github.com/BlazeWild/HousePricePrediction
+[submodule "MNIST-from-Scratch"]
+	path = MNIST-from-Scratch
+	url = https://github.com/BlazeWild/MNIST-from-Scratch
